@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # pokedex-vue
-=======
-# pokedex-dio
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -40,4 +37,3 @@ yarn build
 ```sh
 yarn lint
 ```
->>>>>>> fc34c43 (Initial commit)
