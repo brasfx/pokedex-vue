@@ -1,0 +1,11 @@
+
+@use '../mixins/' as *;
+@use '../colors/' as *;
+
+.text {
+	@include modifiers($colors, 'color');
+}
+
+.bg {
+	@include modifiers($colors, 'background');
+}
