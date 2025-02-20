@@ -1,5 +1,5 @@
 
-@import '../colors/';
+@use '../colors/' as *;
 
 @function color($value) {
 	@return map-get($colors, $value);
